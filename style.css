@@ -86,7 +86,7 @@
   
     .nav-menu{
       position:fixed;
-      Left: -100%;
+      Left: 100%;
       top: 70px;
       gap: 0;
       flex-direction: column;
